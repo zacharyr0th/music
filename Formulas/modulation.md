@@ -1,18 +1,18 @@
 
 | Destination | Secondary Dominant | Leading Tone | Tritone Sub |
 |-----|----------|--------------|---------|
-| 1   | V7       | VIIo         | bV7     |
-| b2  | bVI7     | Io           | V7      |
-| 2   | VI7      | bIIo         | bVI7    |
-| b3  | bVII7    | IIo          | VI7     |
-| 3   | VII7     | bIIIo        | bVII7   |
+| 1   | V7       | VIIo         | ♭V7     |
+| ♭2  | ♭VI7     | Io           | V7      |
+| 2   | VI7      | ♭IIo         | ♭VI7    |
+| ♭3  | ♭VII7    | IIo          | VI7     |
+| 3   | VII7     | ♭IIIo        | ♭VII7   |
 | 4   | I7       | IIIo         | VII7    |
-| b5  | bII7     | IVo          | I7      |
-| 5   | II7      | bVo          | bII7    |
-| b6  | bIII7    | Vo           | II7     |
-| 6   | III7     | bVIo         | bIII7   |
-| b7  | IV7      | VIo          | III7    |
-| 7   | bV7      | bVIIo        | IV7     |
+| ♭5  | ♭II7     | IVo          | I7      |
+| 5   | II7      | ♭Vo          | ♭II7    |
+| ♭6  | ♭III7    | Vo           | II7     |
+| 6   | III7     | ♭VIo         | ♭III7   |
+| ♭7  | IV7      | VIo          | III7    |
+| 7   | ♭V7      | ♭VIIo        | IV7     |
 
 ## C
 
