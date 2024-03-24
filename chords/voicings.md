@@ -242,6 +242,19 @@ maj 7 s2
 maj 7 s2.6
 maj 7 #11.6
 vi13.6
+
+- Major Voicings
+- Minor Voicings
+- Dominant / Sus Voicings
+- Half and Fully Diminished Voicings
+- Major Pentatonic Voicings
+- Minor Pentatonic Voicings
+- Dominant Pentatonic Voicings
+- Major Block Chords
+- Minor Block Chords
+- Cluster Chords
+- Polychords
+- Must-Know Sounds
 iv9.6/4
 iv11.6/4
 s4 b9 (2)
