@@ -1,0 +1,1 @@
+A rhythmic pattern that sounds the same whether played forward or backward.
